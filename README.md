@@ -1,4 +1,4 @@
-# Proyecto SQL para mejor de promos en librería
+# Proyecto SQL para optimización de promociones de ventas
 
 El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de todos. Los habitantes de las ciudades ya no pasaban su tiempo libre fuera, yendo a cafés y centros comerciales; sino que más gente se quedaba en casa, leyendo libros.
 El proyecto consiste en el análisis de la base datos de una empresa de venta de libros utilizando SQL dentro del framework de Python en el paquete sqlalchemy. Se busca obtener insights que ayuden a una mejor promoción de los títulos adecuados.
